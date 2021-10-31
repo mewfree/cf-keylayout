@@ -1,6 +1,6 @@
 cf-keylayout
 ============
-Clavier canadien français pour macOS
+Clavier canadien français pour macOS, mais avec l'icône dans la barre d'état en échelle de gris
 
 Installation
 ------------
